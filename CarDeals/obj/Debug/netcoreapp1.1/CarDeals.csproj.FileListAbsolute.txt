@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/CarDeals.Solution/CarDeals/bin/Debug/netcoreapp1.1/CarDeals.deps.json
+/Users/Guest/Desktop/CarDeals.Solution/CarDeals/bin/Debug/netcoreapp1.1/CarDeals.runtimeconfig.json
+/Users/Guest/Desktop/CarDeals.Solution/CarDeals/bin/Debug/netcoreapp1.1/CarDeals.runtimeconfig.dev.json
+/Users/Guest/Desktop/CarDeals.Solution/CarDeals/obj/Debug/netcoreapp1.1/CarDeals.AssemblyInfo.cs
+/Users/Guest/Desktop/CarDeals.Solution/CarDeals/bin/Debug/netcoreapp1.1/CarDeals.dll
+/Users/Guest/Desktop/CarDeals.Solution/CarDeals/bin/Debug/netcoreapp1.1/CarDeals.pdb
+/Users/Guest/Desktop/CarDeals.Solution/CarDeals/obj/Debug/netcoreapp1.1/CarDeals.dll
+/Users/Guest/Desktop/CarDeals.Solution/CarDeals/obj/Debug/netcoreapp1.1/CarDeals.pdb
